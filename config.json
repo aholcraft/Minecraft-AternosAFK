@@ -2,5 +2,5 @@
 	"ip":"aholcraft.aternos.me",
 	"port": "54297",
 	"name": "EGYPTBOT",
-	"auto-night-skip":"false"
+	"auto-night-skip":"true"
 }
